@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SuperPantsBG
 - 👀 I’m interested in nerd shit
 - 🌱 I’m currently learning html, css and js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 SuperPantsBG/SuperPantsBG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
